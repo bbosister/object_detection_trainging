@@ -1,4 +1,4 @@
-"""
+""" Modified by Prof. Kim on 2024
 Usage:
 # Create train data:
 python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FOLDER]/train_labels.csv
